@@ -1,7 +1,7 @@
 # Token-Widgets
 
 #### A simple token widget for your website
-`<iframe src="https://www.marketcap.cash/widgets/simple/{SYMBOL}" width="170" height="112" />`
+`<iframe src="https://www.marketcap.cash/widgets/simple/{SYMBOL}" />`
 
 ##### Example:
 `<iframe src="https://www.marketcap.cash/widgets/simple/MIST" width="170" height="112" />`
